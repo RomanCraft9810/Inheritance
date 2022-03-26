@@ -26,7 +26,7 @@ f.printname()
 fs = Petsays("I am traveling with Angles","I am a frog in a glowing jar")
 fs.printname()
 
-r = Pet("Daffodil", "rockrunner")
+r = Pet("Dandelion", "rockrunner")
 r.printname()
 rs = Petsays("I am traveling with Dae", "My species is unknown")
 rs.printname()
