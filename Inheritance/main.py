@@ -1,6 +1,4 @@
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-#class Cinder(Pets):
-
 class Pet:
   def __init__(self, fname, lname):
     self.firstname = fname
@@ -32,5 +30,3 @@ r = Pet("Daffodil", "rockrunner")
 r.printname()
 rs = Petsays("I am traveling with Dae", "My species is unknown")
 rs.printname()
-
-
